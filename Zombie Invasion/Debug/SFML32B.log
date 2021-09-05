@@ -1,0 +1,62 @@
+﻿  Main.cpp
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\stats.h(30,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\stats.h(30,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\stats.h(63,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\stats.h(63,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(90,19): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(102,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(102,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(116,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(120,15): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(139,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(140,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\movable.h(164,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(24,17): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(81,74): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(116,17): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(123,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(123,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(132,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\zombie.h(132,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\human.h(83,72): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\human.h(109,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\human.h(109,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\tower.h(90,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\tower.h(90,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Board.h(166,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(40,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(40,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(51,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(51,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(61,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Game.h(61,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\SFML32B\Main.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  SFML32B.vcxproj -> D:\Kuliah Infor\PBO\Zombie Invasion\SFML32B\Debug\SFML32B.exe
